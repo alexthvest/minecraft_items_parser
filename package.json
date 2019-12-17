@@ -1,0 +1,9 @@
+{
+  "name": "items_parser",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "lodash": "^4.17.15",
+    "request": "^2.88.0"
+  }
+}
